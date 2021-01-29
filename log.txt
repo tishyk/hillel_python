@@ -1,0 +1,46 @@
+Hello world
+Hello world
+Hello world
+some message
+Hello world
+10
+log.txt
+Hello world
+C:/Projects/basics/hillel2/session9_code.py
+__main__
+{'__name__': '__main__', '__doc__': None, '__package__': None, '__loader__': <_frozen_importlib_external.SourceFileLoader object at 0x0145DD90>, '__spec__': None, '__annotations__': {}, '__builtins__': <module 'builtins' (built-in)>, '__file__': 'C:/Projects/basics/hillel2/session9_code.py', '__cached__': None, 'name': <built-in function print>, 'print': <built-in function print>, 'logfile_path': 'log.txt', 'msg': 'Hello world', 'log': <function log at 0x014938A0>}
+log.txt
+Hello world
+C:/Projects/basics/hillel2/session9_code.py
+__main__
+{'__name__': '__main__', '__doc__': None, '__package__': None, '__loader__': <_frozen_importlib_external.SourceFileLoader object at 0x00F5DD90>, '__spec__': None, '__annotations__': {}, '__builtins__': <module 'builtins' (built-in)>, '__file__': 'C:/Projects/basics/hillel2/session9_code.py', '__cached__': None, 'name': <built-in function print>, 'print': <built-in function print>, 'logfile_path': 'log.txt', 'msg': 'Hello world', 'log': <function log at 0x010A38A0>}
+Hello
+hi
+
+
+
+wSDZFNGJ
+
+
+
+
+Hello
+gvbJLGVBGVBdk
+k;jsdbvdjkvbdflvbladfjbn
+sjkdvadkjb
+sbvjhdfvbadfjkb
+jwbkajdbvdjk
+vbad
+r
+длх╡бндлх
+
+sdivbDJLVBkfvbKVBJe
+q
+zxcf
+hello world
+bvjhd
+sadbhsfhsfgnsfn
+tfgy
+wdgfhtjk
+Sbf f 
+log function
