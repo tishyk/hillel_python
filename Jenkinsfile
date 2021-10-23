@@ -1,5 +1,5 @@
 node {
-    def myGradleContainer = docker.image('gradle:python:3.7-buster')
+    def myGradleContainer = docker.image('gradle:jdk8-alpine')
     myGradleContainer.pull()
 
     stage('prep') {
